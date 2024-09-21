@@ -1,0 +1,2343 @@
+9 AM 20-5-2024
+
+Dear Students 20-08-2024 to 05-09-2024 , I am talking only online sessions no offline sessions. Offline sessions will resume on 06-09-2024
+
+Join from the meeting link
+https://nareshitechnologies.webex.com/nareshitechnologies/j.php?MTID=m315272e9fa4157820987b3895f921e83
+
+Join by meeting number
+Meeting number (access code): 2517 551 3934
+Meeting password: 112233
+
+repo:
+
+ https://github.com/chenchalasrinuui/my-web-app
+
+https://github.com/chenchalasrinuui/9amredux
+
+workshop on callbacks, promises and Observables:
+
+https://youtube.com/live/oGBdi__l3Zc?feature=share
+
+workshop on OOPS:
+
+https://www.youtube.com/watch?v=Em5cS9FKe0w&t=5237s
+
+Workshop on Array methods:
+
+27/04  session :  https://www.youtube.com/watch?v=PBcYaAFU5aw&t=34s
+28/04 Session  :  https://youtu.be/CprFHF4ZXn0
+
+Workshop on Exception Handling:
+
+25/05 session: https://www.youtube.com/watch?v=ILOEINsphhw
+
+Array methods:
+
+Session 1: https://www.youtube.com/watch?v=PBcYaAFU5aw&t=31s
+
+Session 2: https://www.youtube.com/watch?v=CprFHF4ZXn0
+
+Browser Storages:
+
+https://www.youtube.com/watch?v=G6uxFXkh4lQ&t=2s
+
+Srinivas
+
+10 years
+
+React
+
+prerequisites : HTML, CSS, JavaScript
+
+2months+
+
+React Course Content (60 days):  
+
+React:
+=====
+
+1. Why do we go for React ?
+2. How to prepare the templates in react (functional components) and JSX
+3. How to handle the events(click, focus, blur ...) ?
+4. How to take the data from inputControls(textbox,password,radio,checkbox,textarea,fileupload,dropdown)?
+5. State vs Props
+6. State value update, prop value update
+7. Communication b/w components (parent-child , child-parent)
+8. Context API
+9. How to handle AJAX(XMLHttpRequest, fetch, axios)
+10. Lifecycle phases
+11. Lists and keys
+12. Reusable components
+13. How to apply styles dynamically (inline, class)
+14. Handle Routing in React
+15. Conditional Rendering
+16. Integrate bootstrap, react-bootstrap, material UI design
+17. Module CSS, styled-components, SASS.
+18. DefaultProps , PropTypes
+19. Higher Order Components
+20. React Testing(jest+RTL)
+21. PlayWright(JavaScript Automation Testing)
+22. Create and publish your own lib in npmjs.
+
+React Hooks:
+===========
+
+1. useState
+2. useEffect
+3. useRef
+4. useContext
+5. useReducer
+6. useMemo
+7. useCallback
+8. useTransistion
+9. Custom Hook
+
+Build and Deploy:
+=================
+Vercel
+
+Version Control:
+===============
+GIT
+
+Backend:
+=======
+1. node 
+
+DataBase:
+========
+1. MongoDB
+
+Redux(state management at application level):
+=============================
+1. How to implement Redux in your React Application ?
+2. actions, reducers, store
+3. Redux Saga
+
+Data Visualization:
+=============
+1. Visualization(charts)
+
+
+EtoE Application(DML operations(login, insert, update, delete, retrieve)) :
+=======================================================================
+1. client(React +Redux) + Server(node with express ) + MongoDB
+
+JWT:
+====
+1. client(React ) + Server(node with express )
+
+Others:
+======
+1. Next JS --
+2. React Native --
+3. React With Typescript --
+
+Softwares need to install:
+=================
+1. Visual Studio Code : https://code.visualstudio.com/
+2. git : https://git-scm.com/downloads
+3. MongoDB compass : https://www.mongodb.com/products/compass
+4. Node s/w or nvm : https://nodejs.org/en/download or https://github.com/coreybutler/nvmwindows/releases
+5. postman : https://www.postman.com/downloads/
+
+Create Accounts:
+=================
+1. https://github.com/
+2. https://www.vercel.com/
+3. https://mongodb.com/
+4. https://aws.amazon.com/ 
+5. https://www.npmjs.com/
+
+Learning Websites:
+==================
+1. www.uijavakit.com
+2. www.kalamschools.com
+3. www.yourpost.in
+4. www.writetest.in
+
+Email:
+===
+chenchala.srinu@gmail.com
+
+Videos: 
+
+Day-1 https://youtu.be/4q_9W-iNBLA
+
+Day-2 https://youtu.be/-nzOpKzS21s
+
+ Day-3 https://youtu.be/lMy4lq39fAA
+
+Day4 - https://youtu.be/Rapj-4E72IY
+
+Day-5 https://youtu.be/3yPfmgb0onw
+
+Day-6 https://youtu.be/ji2LN1VH3pU
+
+Day-7 https://youtu.be/Jmoj9HY0g0g
+
+Day-8 https://youtu.be/3VJNPX0UItw
+
+
+60m
+5- HTML
+5- CSS
+30min - JS
+
+react -30m
+
+workshops - 8
+
+3. distributed applications
+
+4. enterprise applications
+
+============================================
+
+1. Developer Console window  
+    browser
+
+
+hello.java
+
+...
+...
+...
+
+compile
+run 
+output
+
+HT ML
+
+hello.html
+
+...
+...
+...
+
+run 
+output
+browser
+
+
+html
+head
+body
+
+div
+span
+p
+h1
+a
+img
+
+block -
+
+inline -
+
+
+==============
+
+static -
+    default postion
+    we cannot t,r,l,b
+
+absolute-
+    we can apply t,r,l,b
+    change the behaviour(content width)
+    remove the space from DOM
+    take parent as ref, whenever the parent other that static postion
+
+<div>Sachin</div>
+
+postion:abosolute
+top:100
+
+
+realtive- 
+    
+
+sticky
+
+selectors:
+
+tag
+.
+#
+:first-child
+:last-child
+:first-of-type
+:las-of-type
+>
+space
++
+~
+nth-child
+
+
+media queries
+
+
+===========================
+
+1. Why we go for HTML ?
+
+2. What is inline & block level ?
+
+3. Waht is an attirbute ?
+
+4. CAn we convert inline to block ?
+
+5. can I cahnge the behaviour of eleemtn ?
+
+6. Tell me somethiong about developer console window ?
+
+7. Some of the HTML5 features ?
+
+8. How many ways we can apply CSS ?
+
+9. What is the priority order ?
+
+10. What is boxmodel ?
+
+11. Tell me somethig about the postions ?
+
+12. Tell me some selctor what you know ?
+
+13. Why we go for media queries ?
+
+1. why we go for React ?
+
+2. How we prepare the templates in react ?
+
+3. How many ways we can create the components ?
+
+4. tell me the syntax of functional compnent ?
+
+5. How to use 
+    function App(){
+        return <h1>Hell</h1>
+    }
+  as a component
+
+6. what is JSX ?
+
+7. When we can pass the data to the component ?
+
+8. How many ways we can pass the data to the componet 
+while loading ?
+
+9. What is props ?
+
+10. tell something about the childrne prop key?
+
+11. In react , the event hanldler should be ?
+
+12. handler funciton called by passing how may para?
+
+13. some error message what you know ?
+
+14. syntax error
+
+15. Runtime error -
+
+
+
+1.
+
+<App />
+
+App is not defined
+
+
+2. cannot read properyt of undefined reading length
+
+var loc;
+loc.length
+
+3. var b=10;
+
+   b()
+
+b is not a function
+
+4. var container =null;
+
+   ReactDOM.createRoot(container)
+
+
+===============================
+
+function App(){
+  return <div>{props.name}</div>
+
+}
+
+<App />
+
+props is not defined
+
+==============
+
+
+function App(props){
+  return <div>{props.name}</div>
+
+}
+
+<App />
+
+==============
+
+
+function App(props){
+  return <div>{props.name.length}</div>
+
+}
+
+<App />
+cannot read property of undefined(reading lenght)
+==============
+
+
+function App(props){
+  return <div>{props.name.length}</div>
+
+}
+
+<App name="abcdef" />
+---------------------
+
+function App(props){
+  return <div>{props.children}</div>
+
+}
+<App>Sachin</App>
+
+===========================
+
+
+18.3.1
+
+
+
+functional
+
+            static content
+
+class
+
+           static content,dynamic content
+
+16.8
+
+functional+ hooks
+
+        static content,dynamic content
+class
+
+           static content,dynamic content
+
+
+========================
+
+useRef
+
+============
+
+function App(){
+   return <div>hellow world</div>
+}
+
+
+const root=ReactDom.createRoot(document.getElementById("root");
+root.render(<App />
+
+
+Error Message - ReactDom is not defined
+
+
+1. React-dom lib loaded or not ? 
+            a. in source table check for react-dom lib
+            b. in the console check ReactDOM variable
+=============================
+
+function App(){
+   return <div>hellow world</div>
+}
+
+
+const root=ReactDOM.createRoot(Document.getElementById("root");
+root.render(<App />
+
+
+Error Message - Document.getElementById is not function
+
+
+1.check Document.getElementById value in console
+
+=======================
+
+1. How to check React variable avaible or not in my page?
+    a. in the console type React
+    b. in the source tab , check for react lib.
+    c. on the page load , check in the network tab
+
+=====================
+
+
+
+5AM-6AM - Physical fitness
+7AM to 8AM - React
+
+1h
+
+10min - kalamschools - write program - read running notes
+
+10min - writetest
+
+10min - yourpost -
+
+30min - class programs / uijavakit.com
+
+1. Hellow world
+
+2. Print Name 5 times
+
+3. 4 Boxs create, pass the data to that Box component as an att
+
+4. Players component  and pass the data as an att and children
+
+5. Find sum using JS
+
+6. Find sum using useRef
+
+7. prime, Reverse, shoot
+
+
+============================
+
+1. why we go for useRef
+
+  useRef(10)
+
+  ref=useRef()
+  
+  <div ref={ref}></div>
+
+2.
+
+
+   function useState(init){
+
+    var init=init;
+    function updateInit(newVal){
+            init=newval
+    }
+
+        return [init,updateInit]
+
+   }
+
+
+    const [a,b]=useState(100)
+
+    a - 100
+      b-  f updateInit
+
+    b(200)
+
+
+
+
+
+    
+   const val=fn()
+
+index
+
+   val[0]
+   val[1]
+
+for
+
+for in
+
+for of
+
+forEach
+
+destructring
+
+
+var obj={
+  name:"sachin",
+  loc: {
+     pin:34343
+     area:hyd
+     100..
+  }
+  100..
+}
+
+
+obj.loc.pin
+obj.loc.area
+
+const {pin,area}=obj.loc
+
+
+
+const [no,setNo]=React.useState(10)
+
+no ? 10
+
+setNo(100)
+
+no- 100
+
+setNo({})
+
+no - {}
+
+setNo(true,100)
+
+no - true
+
+=========================
+
+onChange
+
+<input onChange={} />
+
+
+event - onresize
+
+Q. How we can add onClick event to one element (button) in JS ?
+
+ans: 
+    1. <button onclick="handler()" ></button>
+
+    2. const btnRef=document.querySelector("button")
+        btnRef.addEventLister("click",handler)
+    3. btnRef.onClick=handler
+
+
+window.addEventListener("resize",()=>{
+  
+})
+
+
+=======================================
+
+1. Why we go for React ?
+
+2. How many min lib required ?
+
+3. which version u used ? 18.3
+
+4. Which hooks u used in you application ?
+
+5. state vs props ?
+
+6. state variable vs normal js varibale
+
+7. conditional rendering
+
+8. how to apply CSS class dynamicall ?
+
+9. how to apply inline styling in React ?
+
+10. Tell me somthing about JSX ?
+
+11. Why we go for context ?
+
+12. how to share the data across all the componet in your applcation ?
+
+13. How you implements context api ?
+
+14. why we go for useContext ?
+
+15. tell me something about useRef ?
+
+16. What is the procedure you are following ?
+
+    dev - test - stage- adoption - production
+
+17.
+
+HTML:
+
+1. inline vs block leve elements ?
+
+2. What is an attributes ?
+
+3. tell me some elements ?
+
+4. What is semantic elements ?
+
+5. what are the new fetures in HTML5 ?
+================================
+
+CSS:
+
+1. how many ways we can apply ?
+
+2. Box modal
+
+3. positions
+
+4. selectors
+
+5. flex
+
+6. grid
+
+7. media queries
+
+8. CSS3 fetures
+==============================
+
+JS
+
+1. variable and functions
+
+2. JSON
+
+3. Array methods
+
+4. String methods
+
+5. OOPS
+
+6. Exception Handling
+
+7. Browser Storages
+
+8. Promises
+
+9. BOM vs DOM
+
+10. Closure, hoisting..etc
+
+===============================
+
+Array methods
+
+Session 1: https://www.youtube.com/watch?v=PBcYaAFU5aw&t=31s
+
+Session 2: https://www.youtube.com/watch?v=CprFHF4ZXn0
+
+
+method -
+
+class A{
+  n1=10
+  f1(){
+  }
+}
+
+function A(){
+    this.n1=10;
+    this.f1=function(){}
+}
+
+funciton vs methods
+
+Array - predefined
+
+variables
+methods
+
+how many ?
+
+==========================
+
+var arr=new Array()
+
+arr - []
+
+==
+
+var arr=[];
+arr - []
+
+=========================
+
+
+var arr=new Array(10,20,30)
+
+arr - [10,20,30]
+
+==
+
+var arr=[10,20,30];
+arr - [10,20,30]
+=========================
+
+
+var arr=[10,20,30]
+
+
+arr.push - add an element(s) in the last index
+     type - method
+     parameters- rest (o to any)
+     return value - new arary length
+     return type - number
+arr.pop - remove the element from last index
+    type - method
+    parameters- 0
+    return value - last index element
+    return type  - any
+
+arr.unshift - add an element(s) in the 0th index
+     type - method
+     parameters- rest (o to any)
+     return value - new arary length
+     return type - number
+arr.shift - remove the element from 0th index
+    type - method
+    parameters- 0
+    return value - last index element
+    return type  - any
+
+arr.indexOf - find the index of an element| element there or not there
+    type - method
+    parameters- max 2
+    return value - index(if there) -1 (not there)
+    return type  - number
+
+
+arr.includes - element there or not there
+    type - method
+    parameters- max 2
+    return value - true(if there) false (not there)
+    return type  - boolean
+
+Workshop
+
+Promises
+
+1. what is promise ?
+
+
+    a. predefined
+    b. lib
+    c. defined by user
+
+x is not defined
+
+1. Predefined functional class
+2.while creating an object we have to pass callback
+3. callback called by Promise by passing 2 parameters
+4. those 2 paramers type is function
+
+const promiseObj=new Promise((a,b)=>{
+    // a,b are functions
+})
+
+a. why we go ?
+
+ if you want to pass anynchronous action results back to caller
+
+b. How we can anynchronous action results back to caller ?
+
+
+Shop:
+
+function printCards(no, text){      
+ return new Promise(function(resolve,reject){
+    console.log("start print the cards");
+    console.log("going...");
+    const isPrinted=true;
+    if(isPrinted){
+       resolve(no)
+    }else{
+       reject(0);
+    }
+ })
+}
+
+College:
+
+    printCards(100,"nit")
+
+How we can get the result(succ/fail) from Promise object ?
+
+    1. then
+    2. await keyword
+
+
+cosnt promiseObj=printCards(100,"nit")
+
+promiseObj.then()
+
+
+
+1. how many members are there inside the Promise class ?
+
+    a. then method
+    b. catch method
+    c. finally method
+
+b. then, catch, finally returns the promise Object
+
+ function Promise(){
+    this.then=function(scb,ecb){ scb(succData) return this}
+       this.catch=function(){ return this}
+       this.finally=function(){ return this}
+ }
+
+
+i. asynchronous action
+
+function printCards(no, text){      
+ return new Promise(function(resolve,reject){
+    console.log("start print the cards");
+    console.log("going...");
+    const isPrinted=true;
+    if(isPrinted){
+       resolve(no)
+    }else{
+       reject(0);
+    }
+ })
+}
+const obj=printCards(100,"nit")
+obj
+.then((data)=>{
+   console.log("received "+ data + " cards")
+console.log("distribute "+ data + " cards")
+
+})
+.catch((data)=>{
+   console.log("received " + data + " cards")
+  console.log("find some alternate")
+})
+.finally(()=>{
+   console.log("start/end");
+})
+
+
+new Promise(functoin(resolve,reject){
+       reject(20)
+})
+
+This JS  code already written
+
+functon Promise(cb){
+ this.successData;
+ this.failureData;
+ functoin resolve(data){
+  this.succeeData=data;
+ }
+ function reject(data){
+    this.failurecode=data
+}
+ cb(resolve,reject);
+ this.then=function(cb){
+   cb(this.successData);
+ }
+this.catch=function(cb){
+   cb(this.failureData);
+ }
+ 
+}
+
+obj.then(function(){
+
+})
+
+
+==============================
+
+
+
+const App=()=>{
+state - no - 0
+
+hanldeclick - 
+for(let i=0;i<5;i++){
+setNo(no+1)
+}
+return 
+button - hanldeclick
+{no}
+}
+
+0
+
+Lifecylce Phases
+
+const App=()=>{
+    return <div>Sachin</div>
+}
+
+loading - <App /> - first time loading
+
+Sachin
+
+After first time load  - updating
+
+unloading
+
+
+mounting
+updating
+unmounting
+
+
+1. want execute 100 lines of code, before render content
+inside the browser first time load.
+
+Ans : wirte those 100 lines, inside the component before the return stmt.
+const App=()=>{
+ console.log("100 lines")
+ return <div>Sachin</div>
+}
+
+<App />
+
+2.want execute 100 lines of code, after render content
+inside the browser first time load.
+const App=()=>{
+ 
+ React.useEffect(()=>{
+    console.log("100 lines code");
+ },[])
+ return <div>Sachin</div>
+}
+
+<App />
+
+3.want execute 100 lines of code, after render content
+inside the browser first time load and for every new data rendering
+
+const App=()=>{
+ 
+ React.useEffect(()=>{
+    console.log("100 lines code");
+ })
+ return <div>Sachin</div>
+}
+
+<App />
+
+4. want execute 100 lines of code, after render content
+inside the browser first time load and for cnt change
+
+const App=({runs})=>{
+ const [cnt, setCnt] = React.useState(0)
+ const [name, setName] = React.useState("Sachin")
+ React.useEffect(()=>{
+    console.log("100 lines code");
+ },[cnt])
+ return <div>Sachin</div>
+}
+
+<App />
+
+
+========================
+useEffect(()=>{
+
+})// callback called 1st time load and every change(state,props,context,redux)
+use
+
+useEffect(()=>{
+
+},[])//callback called by useEffect only first time render the content inisde the browser
+
+useEffect(()=>{
+
+},[cnt])// callback called by useEffect firt time load after render the content and for every cnt change
+
+useEffect(()=>{
+
+},[cnt,name])// callback called by useEffect firt time load after render the content and for every cnt,name change
+
+useEffect- We can handle life cycle phase
+
+
+Mounting - loading
+
+Updating
+
+Unmounting
+
+useEffect(()=>{
+
+})
+
+a. first time load after rendering the content
+b. for every data changes after first time load
+
+useEffect(()=>{
+
+},[])
+
+a. first time load after rendering the content
+
+useEffect(()=>{
+
+},[cnt])
+
+a. first time load after rendering the content
+b. for every cnt change after first time load
+
+useEffect(()=>{
+
+},[cnt,name])
+
+a. first time load after rendering the content
+b. for every cnt,name change after first time load
+
+
+case : 100 lines - I donot want to execute first time load,only for cnt changes want to execute
+
+const App=()=>{
+const [cnt,setCnt]=React.useState(0)
+
+ React.useEffect(()=>{
+    if(cnt!==0){
+     console.log("100 lines")
+       }
+ },[cnt])
+
+ 
+ return <div>
+    <h3>{cnt}</h3>
+    <button onClick={()=>setCnt(cnt+1)}></button>
+ </div>
+}
+
+case : cnt related 50 lines - I want to execute cnt change
+name related 50 line - I wnat to execute name change
+
+const App=()=>{
+const [cnt,setCnt]=React.useState(0)
+const [name,setName]=React.useState("sachin")
+ const isFirstTimeLoadRef=React.useRef(true)
+   React.useEffect(()=>{
+    if(cnt!==0){
+     console.log("50 lines cnt related")
+       }
+ },[cnt])
+
+ React.useEffect(()=>{
+       if(isFirstTimeLoadRef.current){
+         isFirstTimeLoadRef.current=false;
+         return;
+       }
+    console.log("50 lines name related")
+    },[name])
+
+ 
+ return <div>
+    <h3>{cnt}</h3>
+    <button onClick={()=>setCnt(cnt+1)}></button>
+       <h3>{name}</h3>
+    <button onClick={()=>setName(name==="sachin" ? "dhoni" : "sachin")}></button>
+
+ </div>
+}
+
+case : 100 lines of code want to execute just before unmount A component
+
+cosnt A=()=>{
+  React.useEffect(()=>{
+    return ()=>{
+       console.log("100 lines");
+       }
+  },[])
+  return <h1>A</h1>
+}
+
+const App=()=>{
+ const [isRender,setIsRender]=React.useState(true)
+ return <div>
+    <h1>App</h1>
+       {isRender && <A />}
+       <button onClick={()=>setIsRender(false)}>unmoutn A </button>
+ </div>
+}
+
+render(<App />)
+
+App
+A
+
+
+
+=======================
+
+ get posts API
+
+url: https://jsonplaceholder.typicode.com/photos
+
+method: get
+
+
+request:
+
+
+
+response:
+
+=================================
+
+check node installed or not ?
+
+open commandpropmpt
+>node -v
+
+not there - "node" is not recognized as an internal or external command,
+operable program or batch file.
+what we have to - install node s/w
+
+if there - 18.7.0
+
+or
+> npm
+==============
+
+check create-next-app command
+
+cmd> create-next-app
+
+there
+
+not there - "create-next-app" is not recognized as an internal or external command,operable program or batch file.
+what we have to do - npm  i -g create-next-app
+
+===================
+
+go to workspace folder open command propmt
+
+>create-next-app <app-name>
+
+√ Would you like to use TypeScript? ... No 
+√ Would you like to use ESLint? ... Yes
+√ Would you like to use Tailwind CSS? ... No 
+√ Would you like to use "src/" directory? ... No 
+√ Would you like to use App Router? (recommended) ...  Yes
+√ Would you like to customize the default import alias (@/*)? ... No 
+Creating a new Next.js app in C:UsersadminDocumentsworkspace eact20-05-2024 eactapplicationsmy-first-web-app.
+
+=======================
+
+modules - export , default, import , as
+
+
+1.js
+
+const x=10
+export const n3=30
+export const f1=()=>{return 40}
+export default x
+
+2.js
+const n2=20
+export const n3=300
+export default n2;
+
+3.js
+ 
+ import  y,{n3,f1}  from "./1.js"
+ import  n2,{n3 as an3}   from "./2.js"
+ console.log(y+n2+n3+f1()+an3)
+
+100
+==========================
+
+How to create our own lib ?
+
+1. npm search <lib name>
+
+    there  ? you can change the name
+    not there ? you can proceed
+
+2. create lib basic structure using create-react-library
+    
+    > create-react-lib 
+        there ?
+        not there ? - npm i -g create-react-library
+
+3. go to workspace folder
+    >create-react-library  <lib-name>
+
+4. created 2 application
+    a. creater
+    b. tester(exmaple)
+
+5. start 2 applications
+
+
+   open command prompt in root folder(creator) > npm start
+  open command prompt in example(tester) - npm start -(if not legecy command)
+
+6. create members(variable,functions,classes, components) in the src folder
+    
+7. export those memebrs from index.js(max one export defautl, any no of export)
+
+8. go to example application, import your lib(memebers) and use it
+
+9. create account in npmjs.com
+
+10. go to applicaiton root fodler 
+    >npm login
+
+11. npm publish
+
+
+======================================
+
+Vite
+
+
+create-next-app
+
+> create-react-app
+    there
+    not there - npm i -g create-react-app
+
+
+> create applicaiton
+    >create-react-app <app-name>
+
+
+only one time operation
+
+>npx create-react-app <app-name>
+
+vite
+
+npm create vite@latest my-vue-app
+
+=============================
+
+=======================================
+
+Mock a function
+
+jest.mock("../../page",()=>{
+    return {
+        add:jest.fn()
+       }
+})
+
+or
+
+jest.mock("../../page", ()=>{
+    return {
+       add:()=>{
+
+          }
+    }
+})
+===========================
+
+Mock module
+
+
+jest.mock("modulename",()=>{
+  return {
+    __esModule: true,
+    default:()=>{
+
+       },
+    Accordian:()=>{
+
+       }
+  }
+})
+
+============================
+mock object
+
+var address={
+   pin:{
+    value:34343
+   }
+}
+
+jest.mock("path",()=>{
+return {
+   address:{
+    pin: {
+    value:12343
+    }
+  }
+ }        
+});
+
+========================
+
+import {useLocation} from "./next/location"
+
+const router=useLocatoin();
+const pathName=router.path
+
+jest.mock("./next/location",()=>{
+ return {
+   useLocation:()=>{
+    return {path:"3333"}
+   }
+ }
+})
+
+==============================
+
+folder1 - folder2- folder3 - 1.js,2.js,index.js
+
+1.js
+export default n1=10;
+2.js
+export n2=20
+
+index.js
+import n1 from "./1.js"
+export  {n2} from "./2.js"
+
+export default n1;
+
+folder1 - 2.js
+
+2.js
+
+import   n1,{n2}  from "./folder2/folder3"
+
+========================================
+
+
+Application
+
+A.js
+.clr{
+ color:blue
+}
+
+const A=()=>{
+  return <div className="clr">A<div>
+}
+B.js
+.clr{
+ color:red
+}
+
+const B=()=>{
+  return <div className="clr">B<div>
+}
+
+C.js
+
+.clr{
+ color:yellow
+}
+
+const B=()=>{
+  return <div className="clr">C<div>
+}
+
+
+deployment
+
+1.build - minified (10)
+
+
+
+====================
+
+How we can check, in you machine git there or not there ?
+
+>git 
+    there - git commands
+    not-there - is not recognized as an internal or external command,
+operable program or batch file. 
+        we have to install git s/w
+
+2. git isntalled in my machinen , but if I run git command in my machine getting
+  message like "git is not recognized as an internal or external command,
+operable program or batch file."
+
+    In this case we have to set the path.
+        a. copy bin path
+        b. search AdvancedSystemsettting- environmental varibale - select path-edit -new - add above copied item.
+
+
+--------------------
+create an account in github.com
+
+========================================
+
+Which version control u used in your applicaiton ? git
+
+===============
+
+if you have the repo url (main), how you can get the code in your local machine ?
+
+repo url - https://github.com/chenchalasrinuui/9amapp.git
+
+> git clone https://github.com/chenchalasrinuui/9amapp.git
+
+
+---------
+how to check , u r in which branch ?
+
+    git branch
+
+how to create u r own branch ?
+
+    a. from which brnach , you want me to create new branch (main)
+    b. go to main branch
+    c. git checkout main
+
+    d. git checkout -b d4
+    e. git push --set-upstream origin d4
+
+=======================
+
+create b3 branch from b4  brach
+
+    1. go to b4 branch - git checkout b4
+
+    2. git checkout -b b3
+    3. git push --set-upstream origin b3
+
+==============================
+
+How to push my localchanges to my branch ?
+
+a. makesure your local changes done and tested
+
+b. get the changed files - git status
+
+c. add the files to commit - git add *
+    if you want restore added files - git restore --staged *
+    if you want to add a specific file(s) to commit - git add <filepath> <filepath>
+d. git commit -m "helloworld"
+e. git push
+
+
+======================
+
+How to merge my b1 branch into main branch if main is protected branch
+
+    1. By raising Pull request
+
+===============================
+
+How to merge b1 branch in to b2 branch (not protected)
+
+    1. go to b2 branch
+        git checkout b2
+    2. git branch -b2
+    3. git merge b1
+    4. git commit -
+    5. git push
+===============================
+
+if local branch(main) not sync with clound branch(main)
+
+    - git pull
+
+==============================
+
+How to revert the commited changes
+
+    get the commit id - 
+        git log
+        
+    git revert <commit id>
+
+============================
+
+1. my code in one repo (r1) inside one branch (b1)
+    how to we can get it  in local?
+        git clone <repo url>
+
+2. my code in the local in folder, want to move that code into one repo ?
+    a. find the code in the local
+    b. create an empty repo
+    c. git init
+    d. git add *
+       d. git commit -m "first commit"
+       e.git branch -M main
+       d. git remote add origin https://github.com/chenchalasrinuui/my-web-app.git 
+      f.git push -u origin main
+    
+
+============================
+
+How we can check, in you machine git there or not there ?
+
+>git 
+    there - git commands
+    not-there - is not recognized as an internal or external command,
+operable program or batch file. 
+        we have to install git s/w
+
+2. git isntalled in my machinen , but if I run git command in my machine getting
+  message like "git is not recognized as an internal or external command,
+operable program or batch file."
+
+    In this case we have to set the path.
+        a. copy bin path
+        b. search AdvancedSystemsettting- environmental varibale - select path-edit -new - add above copied item.
+
+
+--------------------
+create an account in github.com
+
+========================================
+
+Which version control u used in your applicaiton ? git
+
+===============
+
+if you have the repo url (main), how you can get the code in your local machine ?
+
+repo url - https://github.com/chenchalasrinuui/9amapp.git
+
+> git clone https://github.com/chenchalasrinuui/9amapp.git
+
+
+---------
+how to check , u r in which branch ?
+
+    git branch
+
+how to create u r own branch ?
+
+    a. from which brnach , you want me to create new branch (main)
+    b. go to main branch
+    c. git checkout main
+
+    d. git checkout -b d4
+    e. git push --set-upstream origin d4
+
+=======================
+
+create b3 branch from b4  brach
+
+    1. go to b4 branch - git checkout b4
+
+    2. git checkout -b b3
+    3. git push --set-upstream origin b3
+
+==============================
+
+How to push my localchanges to my branch ?
+
+a. makesure your local changes done and tested
+
+b. get the changed files - git status
+
+c. add the files to commit - git add *
+    if you want restore added files - git restore --staged *
+    if you want to add a specific file(s) to commit - git add <filepath> <filepath>
+d. git commit -m "helloworld"
+e. git push
+
+
+======================
+
+How to merge my b1 branch into main branch if main is protected branch
+
+    1. By raising Pull request
+
+===============================
+
+How to merge b1 branch in to b2 branch (not protected)
+
+    1. go to b2 branch
+        git checkout b2
+    2. git branch -b2
+    3. git merge b1
+    4. git commit -
+    5. git push
+===============================
+
+if local branch(main) not sync with clound branch(main)
+
+    - git pull
+
+==============================
+
+How to revert the commited changes
+
+    get the commit id - 
+        git log
+        
+    git revert <commit id>
+
+============================
+
+1. my code in one repo (r1) inside one branch (b1)
+    how to we can get it  in local?
+        git clone <repo url>
+
+2. my code in the local in folder, want to move that code into one repo ?
+    a. find the code in the local
+    b. create an empty repo
+    c. git init
+    d. git add *
+       d. git commit -m "first commit"
+       e.git branch -M main
+       d. git remote add origin https://github.com/chenchalasrinuui/my-web-app.git 
+      f.git push -u origin main
+    
+============================
+
+1. create a web application with next js
+2. maintain that source code git
+3. build and deploy the code in vercel
+4. add a new feature in your own branch
+5. raise the PR to merge into main
+6. check for the new changes
+
+=============================
+
+
+why we go for redux ?
+
+
+1. @reduxjs/toolkit
+2. react-redux
+
+
+1. create a store
+
+2. provide that store to react applicaiton
+
+3. create a function register with store , now that function turnted to be like reducer
+
+4. reducer take max 2 paramters(curr Data, new Data)
+
+5. reducr return some data to store .
+
+
+A
+B
+C
+
+who want to store the data - A, B
+
+so A,B has to communitate with redcuer
+
+how we can communicate with reducer ?
+
+
+who want to consume -C
+
+How to resist component should not contain more than 250 lines.
+
+If we create normal react applications what is root file si
+
+=========================================
+
+
+
+@reduxjs/toolkit
+react-redux
+
+
+react
+react-dom
+babel
+
+
+1. create the redux store
+
+  import {configureStore} from "@reduxjs/toolkit"
+
+    export const appStore=configureStore()
+
+2. Make the store available to all the components
+
+  import  {Provider} from "react-redux"
+  import appStore
+
+    <Provider store={appStore}>
+      // root components
+    </Provider>
+3. create a function , register with store
+    
+    const fn=(currData,newData)=>{
+        return 
+    }
+
+export const appStore=configureStore({
+    reducer:{
+        myReduer:fn
+    }
+})
+
+4. Who want to keep that data inside the store, they has dispatch the data to the reducer by using dispathc method.
+
+5. dispatch take one parameter, type is object, contains one mandaotyr property type
+
+    dispatch({type:"",payload:""})
+
+6. dispatched data go to reducer as a 2nd parameter
+
+7. once merged new and old , return that final object to store
+
+8. once the data inside the store, we can take data from store using useSelector hook.
+
+    cosnt obj=useSelector((state)=>{
+       return {state.appRecuer.name}
+       })
+
+
+
+====================================
+
+
+
+
+1. @reduxjs/toolkit
+  react-redux
+  redux-logger
+
+2. create store    
+
+3. make the store is available to react application(all react components) uisng Provider component(react-redux)
+
+4.
+
+requirement - 
+    
+    button -photos - store in the redux store - get that data any display in the table format
+
+5. create init
+
+6. create reducer register with store
+
+7. dispathc the data to the reducer
+
+8. reducer perform some operations and return modified data to store.
+
+9. you can see the store changes in the console(we added logger middleware)
+
+10. retrieve the data from store using useSelector hook(react-redux)
+
+==============================
+
+1. Why we go for redux ?
+
+2. How we can implment redux in react application ?
+
+3. How to integrate  saga middleware  in react applicaiton ?
+
+a. install redux-saga lib
+
+b. configre saga  as a middleware in store
+
+c. create one saga function(as per requirement) (generator function)
+
+d. add behaviour and identity to saga function(s) in saga file(s)
+
+e. comible all the saga functions(root saga)
+
+f. run those saga funcitn with sagamiddleware
+
+g. call that saga function based on your requirement using dispatch method(type is saga functin identity)
+
+
+
+===================================
+
+
+
+1. @reduxjs/toolkit
+  react-redux
+
+2. create store
+
+3. create reducer, init
+
+4. register reducer with store
+
+5. provide the store the react appliction
+
+6. set the data to store -> data- dispatch(useDispatch, store) to reducer- reducer retunr to store
+
+7. get the data - data- store- useSelector- get the data
+
+============================
+
+middleware
+
+1. logger - redux-logger
+        register to store  as a middleware
+
+2. saga -  redux-saga
+        register to store
+
+====================================
+
+implement saga into your application
+
+
+1. redux-saga 
+        register as middleware
+
+    import createSagaMiddleware from "redux-saga"
+    
+    const sagaMiddleWare=createSagaMiddleware();
+    
+    configrueStore({
+        ...
+        middlewares:()=>{
+            return [logger,sagaMiddleWare] 
+        }
+    })
+
+
+2. create saga function(s) inside file(s)
+
+    function* getPosts(){
+
+    }
+
+    set behavior and identitiy to the saga functions
+
+    function* postsSaga(){
+        yeild takelatest("GET_POSTS",getPosts)
+
+    }
+3. bind all saga functions
+    
+    function* rootSaga(){
+        return yield all([postsSaga()])
+    }
+
+4. run above saga function with saga middleware
+
+       import createSagaMiddleware from "redux-saga"
+    import rootSaga
+    
+    const sagaMiddleWare=createSagaMiddleware();
+    
+    configrueStore({
+        ...
+        middlewares:()=>{
+            return [logger,sagaMiddleWare] 
+        }
+    })
+    sagaMiddleWare.run(rootSaga)
+
+5. access the saga function using dispatch
+
+    dispatch({type:"GET_POSTS",payload:""})
+            to reducers, sagas
+    
+
+6. call ajax using saga call mehtods
+
+7. once get the response , give the data to reducer using saga put
+
+8. no reducer receive the data and retrn updated data  back to store    
+
+9, 
+==================================
+
+==================
+useState
+useRef
+useContext
+useEffect
+useReducer
+    1. state managements at component level
+    2. state managements at applicatoin level  + context
+
+
+
+=======================
+
+
+1. client app -
+
+2. server app
+
+3. mongo DB
+
+
+case 1:they replaced your machine- new machine
+
+1. clone ui applicaiton (git clone <repo url>)
+
+2. clone server app
+
+3. install mongo DB
+
+4. git
+
+5. visual studio code
+
+===============================
+
+1. run applicatoin
+    - npm i
+    - npm run dev
+    - see the output
+
+
+2. server application
+    - npm i
+    - npm start
+    - see
+
+3. Mongo DB
+    - DB instance should up and run
+
+==========================
+
+
+TL 
+    complete this regform
+
+        1. want to create one end point(api) to save the std data in mongo
+        2. test that post man        
+        3. integrate that endpoint in the cient app
+
+
+=========================
+
+check for express
+            no there-  npm i -g express, npm i -g express-generator
+
+        >express <app name>
+        > npm i 
+        >
+
+node - to run the js file
+nodemon- to run the js(auto reload)
+
+======================
+
+permanant- npm i -g nodemon
+
+onetime - npx nodemon ----
+===============================
+
+
+query string paramters
+
+    1. as part of url
+    2. start with ?
+    3. in the key value 
+    4. one pair to another differcencate with &
+
+http://localhost:2020/std/register?name=Dhnoi&loc=Ranchi
+
+
+router.post("/register", function (req, res, next) {
+
+   // take the data from req object
+   const { name, loc } = req.query
+   // conn with DB
+
+   // do required operations
+
+   // prepare the res
+
+   // send the res back to client
+   res.send("Hey.... am ${name} am from ${loc}")
+})
+
+=====================================
+
+path paramters
+
+    1. as part of url
+    2. start with /
+    3. form of value
+
+http://localhost:2020/std/register/dhoni/ranchi
+
+
+http://localhost:2020/std/register/uv/punjab
+
+
+router.post("/register/:name/:loc", function (req, res, next) {
+
+   // take the data from req object
+   const { name, loc } = req.params
+   // conn with DB
+
+   // do required operations
+
+   // prepare the res
+
+   // send the res back to client
+   res.send("Hey.... am ${name} am from ${loc}")
+})
+
+============================
+
+body
+    1. as part body(payload)
+    2. form of JSON
+    
+
+
+router.post("/register", function (req, res, next) {
+
+   // take the data from req object
+   const { name, loc } = req.body
+   // conn with DB
+
+   // do required operations
+
+   // prepare the res
+
+   // send the res back to client
+   res.send("Hey.... am ${name} am from ${loc}")
+})
+
+=================================
+
+Header
+    1. req headers
+    2. key value
+
+
+
+=====================
+
+req prepare by - client
+knows about the req- clinet
+clinet tell about the req using req headers
+
+
+req used by - server
+before using, server should know about the req ?
+How server can know about the req ? by reading req headers
+    #################################
+
+        
+
+#############################
+
+1. API / Graph QL
+
+2. We can customize the input
+
+3. define the type for input/output
+
+4. Browser - same url, post
+
+
+=============================
+
+typeDefs
+
+reslovers
+
+
+mutation- modify the data- insert ,update,delete
+
+Query - retrieve - get
+
+1. do npm init
+    package.json
+
+2. install express , graphql, apollo-server-exprress lib
+
+3. create three file, app.js, typeDefs, resolvers
+
+4. typeDefs.js
+
+import { gql } from "apollo-server-express";
+
+export const typeDefs = gql"
+
+type Query{
+ getPlayerName:String
+}
+type Mutation{
+ savePlayer:String
+}
+
+"
+
+4. resolvers.js
+
+export const resolvers = {
+   Query: {
+       getPlayerName: function () {
+           return "Sachin"
+       }
+   },
+   Mutation: {
+       savePlayer: function () {
+           return "Success/failure"
+       }
+   }
+}
+
+
+5. app.js
+
+import { typeDefs } from "./typeDefs.js";
+import { resolvers } from "./resolvers.js";
+import { ApolloServer } from "apollo-server-express";
+
+import express from "express"
+
+const app = express();
+
+const server = new ApolloServer({ typeDefs, resolvers })
+
+await server.start()
+
+server.applyMiddleware({ app })
+
+app.listen(4000)
+console.log("server started")
+
+6. packges.json
+
+{
+ "name": "express-gq-server",
+ "version": "1.0.0",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+   "test": "echo "Error: no test specified" && exit 1",
+   "start": "npx nodemon app.js"
+ },
+ "author": "",
+ "license": "ISC",
+ "dependencies": {
+   "apollo-server-express": "^3.13.0",
+   "express": "^4.19.2",
+   "graphql": "^16.9.0"
+ },
+ "type": "module"
+}
+
+7. npm start
+
+8. localhost:4000/graphql
+
+9. Go to root and navigate to query /mutation and test it
+
+########################
+
+Write code for below
+
+1) For example, if the input number is 12, then the output should be “2 2 3”.
+
+And if the input number is 315, then the output should be “3 3 5 7”.
+
+2) 1
+
+   12
+
+   123
+
+   1234
+
+   12345
+
+
+ 
+
+3.
+
+setTimeout(() => console.log(1), 0);
+
+
+ 
+
+   console.log(2);
+
+
+ 
+
+new Promise(res => {
+
+    console.log(3)
+
+    res();
+
+}).then(() => console.log(4));
+
+
+ 
+
+console.log(5);
+
+
+ 
+
+4. async function asyncFunc() {
+
+    console.log("A");
+
+    await new Promise(resolve => setTimeout(resolve, 1000));
+
+    console.log("B");
+
+}
+
+console.log("C");
+
+asyncFunc();
+
+console.log("D")
+ 
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

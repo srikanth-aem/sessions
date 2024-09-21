@@ -1,0 +1,64 @@
+<!-- topics covered 23rd feb
+    event object
+    -predefined variable
+    -type of event is an object.
+        -target
+        -stop propagation
+    ------------
+    event bubbling
+      -event travelling fro innermost to outermost
+    event capturing
+      -event travelling from outermost toinner most
+  -----------------
+1.query selector querySelectorAll - return type list
+  querySelector -return type element.
+ 
+   
+2.
+
+
+on click of submit perform function on data
+-->
+
+<html>
+    <head>
+
+    </head>
+
+    <body>
+        <p>
+            No: <input type="number" />
+        </p>
+        <p>
+            <button onclick="fn()">submit</button>
+        </p>
+        <h3>
+
+        </h3>
+    </body>
+    <script>
+        function fn() {
+            debugger
+            const inputRef=document.querySelectorAll("input")[0]
+            const hRef = document.querySelectorAll("h3")[0]
+            const no = inputRef.value;
+            let result = ""
+            switch (no) {
+                case '1' :
+                result= "SUNDAY"
+                    break;
+                case '2' :
+                result= "MONDAY"
+                    break; 
+                case '3' :
+                result= "TUESDAY"
+                    break;     
+                default : result = "Enter a valid number"
+                   
+            }
+            hRef.innerText = result;
+            inputRef.value = "";
+
+        }
+    </script>
+</html>
